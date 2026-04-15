@@ -11,6 +11,8 @@ narrator: UK English Female
 
 # Jacques Derrida: Von der Gastfreundschaft
 
+![Jacques_Derrida](/img/Derrida1.jpg)
+
 ## Semesterplan
 
 
@@ -66,3 +68,23 @@ narrator: UK English Female
 * BA9 (Problemstellungen und Theorien der Gegenwartsphilosophie): Hausarbeit oder Essay
 * BA10 (Forschungsorientiertes Abschlussmodul): Referat
 * PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft): Essay (5-7 Seiten)
+
+
+## Literaturhinweise
+
+### Werke von Jacques Derrida (Auswahl)
+
+* Grammatologie. Übers. Hans-Jörg Rheinberger, Hanns Zischler. Suhrkamp, Frankfurt 1983.
+* Geschlecht III. Geschlecht, Rasse, Nation, Menschheit. Übers. v. Johannes Kleinbeck u. Oliver Precht, Turia + Kant, 2021.
+* Was tun – mit der Frage „Was tun“? Übers. Johannes Kleinbeck u. Oliver Precht, Turia + Kant.
+* Politik der Freundschaft. Übers. Stefan Lorenzer. Suhrkamp, Frankfurt 2000.
+* Schurken. Zwei Essays über die Vernunft. Übers. Horst Brühmann. Suhrkamp, Frankfurt 2003.
+
+Siehe: [Eintrag in der Stanford Encyclopedia](https://plato.stanford.edu/entries/derrida/)
+
+### Einführungen
+
+* [Eintrag in der Stanford Encyclopedia](https://plato.stanford.edu/entries/derrida/)
+* Susanne Lüdemann, Derrida zur Einführung, Hamburg: Junius 2024.
+* Michael Wetzel, Derrida. Eine Einführung, Stuttgart: Reclam 2019.
+* Gayatri C. Spivak, "Translator's Preface" in: Jacques Derrida, Of Grammatology, The Johns Hopkins University Press 1976.  
