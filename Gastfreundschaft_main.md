@@ -33,10 +33,10 @@ narrator: UK English Female
 | 15.04.2026  |Einführung und Organisatorisches| kein Referat |
 | 22.04.2026  |Die Frage des Fremden S. 11-36|         kein Referat         |
 | 29.04.2026  |Die Frage des Fremden S. 36-57|      kein Referat             |
-| 06.05.2026  |Schritt der Gastfreundschaft S. 59-89                  |      kein Referat             |
-| 13.05.2026  |Schritt der Gastfreundschaft S. 89-112                  |         kein Referat          |
-| 20.05.2026  |Anne Dufourmantelle: Einladung. S. 113-147                  |kein Referat                   |
-| 27.05.2026  |Referat 1: Antike Xenia                 |                   |
+| 06.05.2026  |Keine Sitzung: Vollversammlung                  |      kein Referat             |
+| 13.05.2026  |Schritt der Gastfreundschaft S. 59-89                  |         kein Referat          |
+| 20.05.2026  |Schritt der Gastfreundschaft S. 89-112                   |kein Referat                   |
+| 27.05.2026  |Anne Dufourmantelle: Einladung. S. 113-147 // Referat 1: Antike Xenia                 |                   |
 | 03.06.2026  |Gastfreundschaft in ungastlichen Zeiten: Philosophie mittenmang an der Europa Universität Flensburg                  |kein Referat                   |
 | 10.06.2026  |Referat 2: Derrida und Kant; Lektüre: Derrida: Kosmopoliten aller Länder vereinigt Euch + Kant: Zum ewigen Frieden (Ausschnitt)                  |                   |
 | 17.06.2026  |Referat 3: Derrida und Levinas; Lektüre: Ausschnitt aus *Adieu Nachruf auf Emmanuel Lévinas*                   |                   |
