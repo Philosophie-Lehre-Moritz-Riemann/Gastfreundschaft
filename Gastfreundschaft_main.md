@@ -13,6 +13,18 @@ narrator: UK English Female
 
 ![Jacques_Derrida](/img/Derrida1.jpg)
 
+* Moritz Riemann [riemann@philsem.uni-kiel.de](riemann@philsem.uni-kiel.de) 
+
+* Sprechstundentermine im Sommersemester: **Montags 16:15-17:15 Uhr** |  Boschstraße 1, R. 01.001 | **Keine Anmeldung erforderlich** | Nach Absprache auch digital oder telephonisch unter 0431 880 5644
+
+## Regierungserklärung
+
+1. Grundlage für ein erfolgreiches Seminar ist das intensive Lesen der bereitgestellten Texte und die Bereitschaft zur Diskussion der jeweiligen Positionen. Versucht die Texte einzuordnen und in einen Kontext von für relevante Fragestellungen zu setzen. Fertigt hierzu eigene Mitschriften an und überlegt Euch vor jeder Sitzung einige Fragen, die sich beim Lesen der Texte ergeben. Recherchiert im Vorfeld Begriffe, die Euch womöglich unklar oder ungenau erscheinen und bringt etwaige Unklarheiten in die Diskussion ein
+2. Eine regelmäßige und aktive Teilnahme aller Seminarteilnehmenden ist Voraussetzung für ein gelingendes Seminar.
+3. Philosophische Seminare leben vom diskursiven Austausch. Nehmt in Euren Diskussionsbeiträgen auf den Text und aufeinander Bezug, lasst einander ausreden und vermeidet lange, abschweifende Exkurse.
+4. Meine Sprechsstunde ist offen für alle Anliegen, es ist keine Anmeldung erforderlich.
+5. Bevor Ihr eine Email schreibt: Seht im Seminarplan nach, ob die gesuchte Information dort zu finden ist.
+
 ## Semesterplan
 
 
@@ -69,6 +81,19 @@ narrator: UK English Female
 * BA10 (Forschungsorientiertes Abschlussmodul): Referat
 * PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft): Essay (5-7 Seiten)
 
+## Zuordnung und Prüfungsleistungen
+
+* BA 6 (Praktische Philosophie II - Vertiefung): Hausarbeit im Umfang von 10 Seiten
+* BA7/BA8 (Kulturphilosophie): Referat, Essay, Hausarbeit, Mündliche Prüfung
+* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft): Essay (5-7 Seiten)
+
+**Hinweise zu den Modulen und den Prüfungsleistungen**
+
+* In den beiden Wahlpflichtmodulen BA7 und BA8 sind aus den drei Gegenstandsbereichen Naturphilosophie, Kulturphilosophie und Wissenschaftsphilosophie zwei verschiedene Gegenstandsbereiche zu wählen. Bitte beachten Sie also: Der im Modul BA7 gewählte Gegenstandsbereich muss ein anderer sein als der im Modul BA8 gewählte Gegenstandsbereich!
+* Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. 
+* Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. 
+* Die Abgabe erfolgt als PDF per Email und als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. **Eine Abgabe nur per Email ist nicht ausreichend!**
+* Referate: Gehen Sie davon aus, dass alle Teilnehmenden die Texte gelesen haben. Referate sind durch Forschungsliteratur gestützte Fachvorträge, vermeidet also eine bloße Inhaltsangabe. Versucht, den Argumentationszusammenhang herauszustellen und in den Kontext des Seminars einzubetten. Klärt Begriffe und stellt gern auch einzelne Textpassagen ausführlicher dar, die Sie für besonders bezeichnend erachten. Im Umfang sollten 30 Minuten nicht überschritten werden. Die Erstellung eines Handouts und/oder einer Präsentation ist obligatorisch. Die Präsentation/ das Handout wird im Anschluss dem Seminar zur verfügeung gestellt (PDF-Datei). Zum Referat gehört die anschließende Übernahme der Sitzungmoderation. Kommt spätestens 2 Wochen vor dem Referatstermin in die Sprechstunde.
 
 ## Literaturhinweise
 
