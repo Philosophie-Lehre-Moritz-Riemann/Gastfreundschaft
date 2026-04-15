@@ -36,29 +36,29 @@ narrator: UK English Female
 
 **1. Prüfungszeitraum des Sommersemesters**
 
-* 13.07. - 25.07.2026
+* Von 13.07.2026-25.07.2026
 
 **2. Prüfungszeitraum (nur relevant für mündliche Prüfungen)**
 
-* 05.10. - 17.10.2026
+* Von 05.10.2026-17.10.2026
 
-**Termine für die Anmeldung zum 1. Prüfungszeitraum (1. PZ)**
+**Termine für die Anmeldung zum 1. Prüfungszeitraum**
 
 * Beginn: Montag 01.06.2026
 * Ende: Sonntag 26.06.2025
 
-**Termine für die Anmeldung  zum 2. Prüfungszeitraum (2. PZ)**
+**Termine für die Anmeldung  zum 2. Prüfungszeitraum (nur relevant für mündliche Prüfungen)**
 
 * Beginn: 24.08.2026
 * Ende: 20.09.2026
 
 **Abgabe der schriftlichen Prüfungsleistungen**
 
-* 30.09.2026
+* Mittwoch 30.09.2026
 
 **Ende des Korrekturzeitraums und Eintragung der Noten**
 
-* 27.11.2026
+* Freitag 27.11.2026
 
 
 ## Zuordnung und Prüfungsleistungen
