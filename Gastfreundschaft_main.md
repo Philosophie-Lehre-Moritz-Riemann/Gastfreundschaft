@@ -41,7 +41,7 @@ narrator: UK English Female
 | 10.06.2026  |Referat 2: Derrida und Kant; Lektüre: Derrida: Kosmopoliten aller Länder vereinigt Euch + Kant: Zum ewigen Frieden (Ausschnitt)                  | Despina Demiroglu und Elaay Yildiz                   |
 | 17.06.2026  |Referat 3: Derrida und Levinas; Lektüre: Ausschnitt aus *Adieu Nachruf auf Emmanuel Lévinas*                   |  Kenan Dograr, Negin Restegar                 |
 | 24.06.2026  |Referat 4: Burkhard Liebsch: Europäische Ungastlichkeit und identitäre Vorstellungen                  |                   |
-| 01.07.2026  |Referat 5: Barbara Cassin: Nostalgie oder Heidrun Friese: Grenzen der Gastfreundschaft                  |         Lennart Flobeck          |
+| 01.07.2026  |Referat 5: Heidrun Friese: Grenzen der Gastfreundschaft                  |         Lennart Flobeck          |
 | 08.07.2026  |Abschlussdiskussion                  |kein Referat                   |
 
 
