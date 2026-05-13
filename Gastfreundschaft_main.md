@@ -120,3 +120,11 @@ Siehe: [Eintrag in der Stanford Encyclopedia](https://plato.stanford.edu/entries
 * Barbara Cassin, Nostalgie. Wann sind wir wirklich zuhause? Frankfurt a.M.: Suhrkamp 2022
 * Immanuel Kant, ,,Zum ewigen Frieden“, Werke Band 9, S. 193–251, A3–B104, Darmstadt: WBG 1968.
 * Heidrun Friese, Grenzen der Gastfreundschaft. Die Bootsflüchtlinge von Lampedusa und die europäische Frage, Bielefeld: transcript 2014.
+
+## Sitzung am 20.05.2026
+
+Lemmata DNP
+
+[Xenoi](https://referenceworks.brill.com/display/entries/NPOG/e12212710.xml?rskey=I2hf4B&result=3)
+[Gastfreundschaft](https://referenceworks.brill.com/display/entries/NPOG/e419230.xml?rskey=I2hf4B&result=6)
+[Xenia](https://referenceworks.brill.com/display/entries/NPOG/e12212470.xml?rskey=NtATk6&result=2)
