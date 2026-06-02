@@ -38,8 +38,7 @@ narrator: UK English Female
 | 20.05.2026  |Schritt der Gastfreundschaft S. 89-112                   |kein Referat                   |
 | 27.05.2026  |Anne Dufourmantelle: Einladung. S. 113-147 // Referat 1: Antike Xenia                 |                  |
 | 03.06.2026  |Gastfreundschaft in ungastlichen Zeiten: Philosophie mittenmang an der Europa Universität Flensburg                  |kein Referat                   |
-| 10.06.2026  |Referat 1: Antike Xenia; Textgrundlage Kevin Robb - Xenia, Hiketeia, and the
-Homeric Language of Morals // [Referat 2: Derrida und Kant; Lektüre: Derrida: On Cosmopolitanism + Kant: Zum ewigen Frieden (wird voraussichtlich verschoben)]                  | Honja Karim // [Despina Demiroglu und Elaay Yildiz]                   |
+| 10.06.2026  |Referat 1: Antike Xenia; Textgrundlage Kevin Robb - Xenia, Hiketeia, and the Homeric Language of Morals // [Referat 2: Derrida und Kant; Lektüre: Derrida: On Cosmopolitanism + Kant: Zum ewigen Frieden (wird voraussichtlich verschoben)] |  Honja Karim // [Despina Demiroglu und Elaay Yildiz] |
 | 17.06.2026  |Referat 3: Derrida und Levinas; Lektüre: Ausschnitt aus *Adieu Nachruf auf Emmanuel Lévinas*                   |  Kenan Dograr, Negin Restegar                 |
 | 24.06.2026  |Referat 4: Burkhard Liebsch: Europäische Ungastlichkeit und identitäre Vorstellungen                  |  Simeon Altemeier, Jannik Thiesen                 |
 | 01.07.2026  |Referat 5: Heidrun Friese: Grenzen der Gastfreundschaft                  |         Lennart Flobeck          |
