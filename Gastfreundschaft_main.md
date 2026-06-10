@@ -36,13 +36,13 @@ narrator: UK English Female
 | 06.05.2026  |Keine Sitzung: Vollversammlung                  |      kein Referat             |
 | 13.05.2026  |Schritt der Gastfreundschaft S. 59-89                  |         kein Referat          |
 | 20.05.2026  |Schritt der Gastfreundschaft S. 89-112                   |kein Referat                   |
-| 27.05.2026  |Anne Dufourmantelle: Einladung. S. 113-147 // Referat 1: Antike Xenia                 |                  |
+| 27.05.2026  |Anne Dufourmantelle: Einladung. S. 113-147        | kein Referat        |
 | 03.06.2026  |Gastfreundschaft in ungastlichen Zeiten: Philosophie mittenmang an der Europa Universität Flensburg                  |kein Referat                   |
-| 10.06.2026  |Referat 1: Antike Xenia; Textgrundlage Kevin Robb - Xenia, Hiketeia, and the Homeric Language of Morals // [Referat 2: Derrida und Kant; Lektüre: Derrida: On Cosmopolitanism + Kant: Zum ewigen Frieden (wird voraussichtlich verschoben)] |  Honja Karim // [Despina Demiroglu und Elaay Yildiz] |
-| 17.06.2026  |Referat 3: Derrida und Levinas; Lektüre: Ausschnitt aus *Adieu Nachruf auf Emmanuel Lévinas*                   |  Kenan Dograr, Negin Restegar                 |
+| 10.06.2026  |Referat 1: Antike Xenia; Textgrundlage Kevin Robb - Xenia, Hiketeia, and the Homeric Language of Morals |  Honja Karim |
+| 17.06.2026  |Referat 3: Derrida und Levinas; Lektüre: Ausschnitt aus *Adieu Nachruf auf Emmanuel Lévinas*, S. 33-66                   |  Kenan Dograr, Negin Restegar                 |
 | 24.06.2026  |Referat 4: Burkhard Liebsch: Europäische Ungastlichkeit und identitäre Vorstellungen                  |  Simeon Altemeier, Jannik Thiesen                 |
-| 01.07.2026  |Referat 5: Heidrun Friese: Grenzen der Gastfreundschaft                  |         Lennart Flobeck          |
-| 08.07.2026  |Abschlussdiskussion                  |kein Referat                   |
+| 01.07.2026  |    Sitzung entfällt              |              |
+| 08.07.2026  | **Verlängerte Sitzung: 14:00-16:00;** Referat 5: Heidrun Friese: Grenzen der Gastfreundschaft; Abschlussdiskussion                  |Lennart Flobeck                 |
 
 
 
